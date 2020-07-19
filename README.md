@@ -1,5 +1,5 @@
 # Janatahack-Healthcare-Analytics
-Rank 6 Public LB Solution for Hackathon:
+Rank 10 Public LB Solution for Hackathon:
 ## Problem Statement
 <img src="images/statement.png"
      alt="Markdown Monster icon"
@@ -28,5 +28,5 @@ Rank 6 Public LB Solution for Hackathon:
 Seems like this hackathon is repeated after 4 years... and there are many solutions on them, I referred few. \
 Hackathon: [Knocktober 2016](https://datahack.analyticsvidhya.com/contest/knocktober-2016/)
 ## Competition Result
-Rank: 6th on public LB and _ on private LB\
+Rank: 10th on public LB and _ on private LB\
 [LinktoLB](https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard)
